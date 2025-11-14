@@ -38,11 +38,11 @@ No frameworks or external dependencies.
 
 ### **1. File Operations Menu**
 Users can:  
-1.Create File
-2.Read File
-3.Edit File
-4.Delete File
-5.List Files
+- Create File
+- Read File
+- Edit File
+- Delete File
+- List Files
 
 
 ### **2. Encryption / Decryption**
@@ -94,4 +94,5 @@ Use the same key to restore original contents.
 ````bash
 File.cpp      → Source code
 README.md     → Documentation
+
 ````
